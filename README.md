@@ -8,7 +8,7 @@ We consider the basic resources such as water, air, food and shelter is a necess
 # Basic Resources (Needs)
 Needs are those which all living beings, including humans need for survival. Keeping it simple and addressing the modern day issues will help rightly utilise this basics for sustainable present & future.
  # Water
-  # Potable Water
+  # [Potable Water Monitor](Needs/Water/PotableWaterMonitor/)
    # [Water Level Controller](Needs/Water/WaterLevelController)
    This will be the first ever module that is an absolute necessity, also one of the most affordable, so implemented by almost everyone. Having a smart, connected and yet being affordable is key, so we are designing it here.
 
