@@ -31,12 +31,16 @@ Needs are those which all living beings, including humans need for survival. Kee
 
 ## Food
  Modern agriculture is certainly feeding a plenty of mouths, however it is coming at a cost for both us humans in terms of health and also for the environment which is unsustainable in the long run. Making certain changes, by learning from our ancestors has many ways to make both food safer and environment friendly.
+ - ### Right & Best Foods
+   Organic, chemical free and native food are the only way this planet & us humans can sustain almost perpetually. Growing, sourcing, consuming and recycling is key.
 
 ## Shelter
  Once the tummy is full, a safe shelter becomes the final need for every living being, including humans. However, the modern humans are quickly becoming disconnected from the needs towards the wants that is detrimental to them and the ecology in the near distant future.
  - ### Safety
  - ### Security
 
+#
+#
 # Luxury (Wants)
 Once the 'Needs' are fulfilled, then wants awakens.
 
