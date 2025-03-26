@@ -1,7 +1,9 @@
 
 # Water Level Controller
- Modern homes have atleast one tank for holding potable water. It is very important to keep it clean and hygienic enough to be able to use it without any risks or hazard. This will be the first ever module that is an absolute necessity, also one of the most affordable, so implemented by almost everyone. Having a smart, connected and yet being affordable is key, so we are designing it here.
-
+ Modern homes are equipped with an electric water pump up to storage tanks. However, it is at this very stage we see a major loophole in the wastage when it overflows once the tank is full. A Modular Automated Water Level Controller should help in addressing this issue.
+ 
+ This will be the first ever module that is an absolute necessity, also one of the most affordable, so implemented by almost everyone. Having a smart, connected and yet being affordable is key, so we are designing it here.
+ 
 # [Water Manager](../WaterManager/)
 A system which manages all the water resources, fresh/raw, potable, gray, to black. Nothing is waste if we know how to use it.
 
