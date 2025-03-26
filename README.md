@@ -1,3 +1,4 @@
+
 # ModAutoPlat
 Modular Automation Platform system for all things &amp; process to be automated.
 
@@ -8,7 +9,7 @@ We consider the basic resources such as water, air, food and shelter is a necess
 # Basic Resources (Needs)
 Needs are those which all living beings, including humans need for survival. Keeping it simple and addressing the modern day issues will help rightly utilise this basics for sustainable present & future.
 
-## Water
+## [Water](Needs/Water/)
  The most abundant, yet so scarce in terms of usable resource. It is also one of the most powerful resource, that could determine the existance or competely wipe out a civilization. This is one resource that everyone respects and also fights vehemently for its possession. Let's conserve this, as it is one of the most important resource that will keep humans sane and rightful or completely turn on each other if not managed well.
 ### [Water Manager](Needs/Water/WaterManager/)
  A system which manages all the water resources, fresh/raw, potable, gray, to black. Nothing is waste if we know how to use it.
