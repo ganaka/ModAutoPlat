@@ -34,6 +34,8 @@ Needs are those which all living beings, including humans need for survival. Kee
 
 ## Shelter
  Once the tummy is full, a safe shelter becomes the final need for every living being, including humans. However, the modern humans are quickly becoming disconnected from the needs towards the wants that is detrimental to them and the ecology in the near distant future.
+ - ### Safety
+ - ### Security
 
 # Luxury (Wants)
 Once the 'Needs' are fulfilled, then wants awakens.
