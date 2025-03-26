@@ -1,4 +1,4 @@
-# [Water Manager](../Water/)
+# [Water Manager](../)
 Modern homes have atleast one tank for holding potable water. It is very important to keep it clean and hygienic enough to be able to use it without any risks or hazard.
 
  # Potable Water Monitor
