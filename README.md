@@ -7,33 +7,34 @@ We consider the basic resources such as water, air, food and shelter is a necess
 
 # Basic Resources (Needs)
 Needs are those which all living beings, including humans need for survival. Keeping it simple and addressing the modern day issues will help rightly utilise this basics for sustainable present & future.
- # Water
-  # [Potable Water Monitor](Needs/Water/PotableWaterMonitor/)
-   # [Water Level Controller](Needs/Water/WaterLevelController)
+## Water
+### Water manager
+### [Potable Water Monitor](Needs/Water/PotableWaterMonitor/)
+### [Water Level Controller](Needs/Water/WaterLevelController)
    This will be the first ever module that is an absolute necessity, also one of the most affordable, so implemented by almost everyone. Having a smart, connected and yet being affordable is key, so we are designing it here.
 
- # Air
+## Air
  Air is the most critical part of all the resources, however the effective controlability is largely limited for any individual or a small group. So it is better 
-  # Clean Breathable Air
+### Clean Breathable Air
   Air purifiers do a wonderful job in a contained space, however they are limited and the resources it takes are not anywhere near to sustainable. However, there are many solutions which will work only if other domains will make the necessary changes.
- # Food
+## Food
  Modern agriculture is certainly feeding a plenty of mouths, however it is coming at a cost for both us humans in terms of health and also for the environment which is unsustainable in the long run. Making certain changes, by learning from our ancestors has many ways to make both food safer and environment friendly.
 
- # Shelter
+## Shelter
  Once the tummy is full, a safe shelter becomes the final need for every living being, including humans. However, the modern humans are quickly becoming disconnected from the needs towards the wants that is detrimental to them and the ecology in the near distant future.
 
 # Luxury (Wants)
 Once the 'Needs' are fulfilled, then wants awakens.
- # Energy
+## Energy
  Apart from food, Energy is essential for the modern human on a daily basis. Keeping it sustainable is key for a safer & healthy us.
-  # Electricity
+### Electricity
   Electricity runs almost everything these days, and unfortunately it still is generated from resources that are nowhere near to ecologically stable. However, renewable energy systems are fast replacing the traditional fossil energy based generators.
-  # Solar Power
+### Solar Power
   One of the best ways to harness energy, with a trinklet of ecological damage compared to the traditional fossil & other sources.
 
- # Mobility
+## Mobility
  Mobility is a great invention by modern humans and is a luxury of many these days. There is a little problem, the emissions, which is also being addressed in the recent decades.
-  # EV Charging infrastructure.
+### EV Charging infrastructure.
   EV's are fuelled by electricity from their onboard batteries, and those batteries need to be charged often and should be availabile in plenty.
-   # EVSE Plugs
+#### EVSE Plugs
    A simple smart plug would suffice for most of these needs, and we will be addressing them on priorities.
