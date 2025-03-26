@@ -40,8 +40,7 @@ Needs are those which all living beings, including humans need for survival. Kee
 
  - ### Safety
    Safety is key to any shelter for all good reasons. Be it
-   1. #### Fire & Hazard Safety
-   or
+   1. #### Fire & Hazard Safety (or)
    2. #### Structural Integrity Safety
 
  - ### Security
