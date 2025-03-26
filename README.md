@@ -7,9 +7,9 @@ We consider the basic resources such as water, air, food and shelter is a necess
 
 # Basic Resources (Needs)
 Needs are those which all living beings, including humans need for survival. Keeping it simple and addressing the modern day issues will help rightly utilise this basics for sustainable present & future.
-## Water
-### Potable Water
-### Water Level Controller
+ # Water
+  # Potable Water
+   # Water Level Controller
    This will be the first ever module that is an absolute necessity, also one of the most affordable, so implemented by almost everyone. Having a smart, connected and yet being affordable is key, so we are designing it here.
 
 ## Air
@@ -24,12 +24,14 @@ Needs are those which all living beings, including humans need for survival. Kee
 
 # Luxury (Wants)
 Once the 'Needs' are fulfilled, then wants awakens.
-## Energy
+ # Energy
  Apart from food, Energy is essential for the modern human on a daily basis. Keeping it sustainable is key for a safer & healthy us.
 ### Electricity
   Electricity runs almost everything these days, and unfortunately it still is generated from resources that are nowhere near to ecologically stable. However, renewable energy systems are fast replacing the traditional fossil energy based generators.
 ### Solar Power
   One of the best ways to harness energy, with a trinklet of ecological damage compared to the traditional fossil & other sources.
+#### Solar MPPT Charge Controller
+#### Solar MPPT Inverter
 
 ## Mobility
  Mobility is a great invention by modern humans and is a luxury of many these days. There is a little problem, the emissions, which is also being addressed in the recent decades.
