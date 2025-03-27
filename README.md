@@ -1,5 +1,5 @@
 
-# ModAutoPlat
+# ModuAutoPlat
 Modular Automation Platform system for all things &amp; process to be automated.
 
 The main intention of this platform to come into existence is to help everyone of us to strive towards sustainable lifestyle. Since human population is expanding rapidly and the earthly resources are limited basically to what it is, therefore, we can see that there is a need for us to quickly learn, adapt and improvise the way we use these fairly limited resources which will run out in the near future. It could lead us rather fighting over then such scare resources, therefore, it is a responsibility for us humans to remain humans, and continue to share, preserve and make things better for the future. Since it is a vast spectrum of them, lets break down to two major categories, Needs & Wants.
